@@ -1,0 +1,77 @@
+body{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   align-items: center;
+   justify-content: center;
+}
+header{
+   display: flex;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#div0{
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   z-index: 0;
+}
+#mainfooter{
+   background-color: black;
+   color: white;
+}
+#h3{
+  padding-bottom: 10px;
+  font-size: 15px;
+  
+}
+
+#titulofooter{
+   text-align: center;
+}
+#div1{
+   display: flex;
+   padding: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   justify-content: space-around;
+   gap: 10px;
+}
+
+#div2{
+   display: flex;
+   justify-content: center;
+   justify-content: space-around;
+   gap: 10px;
+}
+.nav{
+   display: flex;
+   justify-content: center;
+   position:relative;
+   bottom: 34px;
+}
+#img_logo{
+   width: 35%;
+   height: 100%;
+   position: relative;
+   top: 17px;
+
+}
+#titulo_favoritos{
+   text-align: center;
+   font-size: 70px;
+}
+#favsection{
+   height: 100vw;
+}
+.barra{
+   width: 100%;
+   bottom: 0;
+   background-color: aqua;
+   padding: 10px;
+   text-align: left;
+   color: white;
+   background-color: rgba(0, 0, 0, 0.5);
+   display: flex;
+   justify-content: space-between;
+}
+.linha3{
+   padding-bottom: 20px;
+}
